@@ -1,0 +1,77 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.bg {
+  background-image: url("/img/background.jpg");
+  background-size: cover;
+}
+.cont {
+  margin: 10% 35%;
+  width: 30%;
+}
+
+.card {
+  padding: 2%;
+}
+
+.login {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: black;
+}
+
+/* Contenido Perfil */
+
+
+/* .container{
+  width: 80%;
+} */
+
+.post{
+ width: 80%; 
+}
+.contenido {
+  /*  padding: 5%; */
+  width: 80%;
+  padding-top: 2%;
+  text-align: center;
+}
+
+
+.profileImg{
+  border: 5px solid orange;
+  border-radius: 50%;
+
+}
+
+.font-pr{
+  font-size: 10px;
+  padding: 0%;
+  margin: 0%;
+  color: gray;
+} 
+
+.menu{
+  font-size: 13px;
+  padding: 0%;
+  margin: 0%;
+  
+}
+.friends{
+  border: 3px solid orange;
+  border-radius: 50%;
+  
+}
+.orange{
+  color: orange ;
+}
+
+.grey{
+  color: grey;
+}
+.elimina{
+  width: 15%;
+  padding: 0px;
+  align-content: center;
+  
+}
